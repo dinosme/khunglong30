@@ -1,8 +1,0 @@
-
-[hybrids]
-	#Master switch for hybrid natural spawning.
-	spawnHybrids = true
-	#Minimum raw brightness for on-ground hybrid spawns.
-	#Range: 0 ~ 15
-	hybridMinBrightness = 1
-

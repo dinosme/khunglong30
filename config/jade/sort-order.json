@@ -1,4 +1,8 @@
 {
+  "apotheosis:adventure": null,
+  "apotheosis:ench": null,
+  "apotheosis:spawner": null,
+  "hammerlib:root": null,
   "jade:object_name": null,
   "minecraft:animal_owner": null,
   "minecraft:beehive": null,
@@ -19,6 +23,6 @@
   "minecraft:progress": null,
   "minecraft:redstone": null,
   "minecraft:zombie_villager": null,
-  "saintsdragons:dragon_info": null,
-  "saintsdragons:egg_timer": null
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }
